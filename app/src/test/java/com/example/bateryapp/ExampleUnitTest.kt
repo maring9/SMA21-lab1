@@ -1,4 +1,4 @@
-package com.example.sma
+package com.example.batteryapp
 
 import org.junit.Test
 
